@@ -55,20 +55,14 @@
 </p>
 ---
 
-### 🚀 Projects  
 
-*Amazon Clone*  
-🛒 HTML, CSS, JavaScript, Figma  
-Built a responsive e-commerce front-end with Figma UI design and product navigation.
+## 📂 Featured Projects
 
-*Car Market Analysis (Python)*  
-🚗 Python, Selenium, NumPy, Matplotlib  
-Scraped data from Cars24, analyzed trends (fuel, price, city) using Python visualization.
-
-*Client-Server Calculator (Java)*  
-🔢 Java, Socket Programming  
-Developed a multithreaded TCP calculator to handle multiple client requests efficiently.
-
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🛒 *Amazon Clone* | Built a responsive e-commerce front-end with Figma UI design and product navigation. | ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white) |
+| 🚗 *Car Market Analysis (Python)* | Scraped data from Cars24 and analyzed trends (fuel, price, city) using Python visualization. | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?logo=selenium&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5?logo=plotly&logoColor=white) |
+| 🧮 *Client-Server Calculator (Java)* | Developed a multithreaded TCP calculator to handle multiple client requests efficiently. | ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white) ![Socket](https://img.shields.io/badge/Socket_Programming-grey) |
 ---
 
 
