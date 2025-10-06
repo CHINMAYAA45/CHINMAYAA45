@@ -9,7 +9,7 @@
 💼 Aspiring *Full Stack Developer* and *Cloud Engineer*  
 🌱 Currently learning *AWS Cloud, **Next.js, and **Spring Boot*  
 💡 Passionate about building scalable web apps & solving real-world problems through code.  
-⚡ Fun fact: I’m also the *Captain of the SOA Kabaddi Team* 🏆  
+⚡ Fun fact: I’m the * state Level Kabaddi Team* 🏆  
 
 ---
 ## 🧰 Tech Stack & Tools
