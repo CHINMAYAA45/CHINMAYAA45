@@ -15,12 +15,9 @@
 ⚡ Fun fact: I’m also the *Captain of the SOA Kabaddi Team* 🏆  
 
 ---
-
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-  <!-- Java Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="120" height="120"/>
+### 🧰 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,html,css,javascript,git,mysql,vscode,vercel&perline=6" />
 </p>
 
 <p align="center">
