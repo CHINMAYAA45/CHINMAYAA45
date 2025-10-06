@@ -8,7 +8,7 @@
 🎓 Final-year B.Tech CSE student at *ITER, SOA University (2021–2025)*  
 💼 Aspiring *Full Stack Developer* and *Cloud Engineer*  
 💡 Passionate about building scalable web apps & solving real-world problems through code.  
-⚡ Fun fact: I’m the * state Level Kabaddi Player* 🏆  
+⚡ Fun fact: I’m the * State Level Kabaddi Player* 🏆  
 
 ---
 ## 🧰 Tech Stack & Tools
