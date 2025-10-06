@@ -7,7 +7,6 @@
 ### 👨‍💻 About Me  
 🎓 Final-year B.Tech CSE student at *ITER, SOA University (2021–2025)*  
 💼 Aspiring *Full Stack Developer* and *Cloud Engineer*  
-🌱 Currently learning *AWS Cloud, **Next.js, and **Spring Boot*  
 💡 Passionate about building scalable web apps & solving real-world problems through code.  
 ⚡ Fun fact: I’m the * state Level Kabaddi Player* 🏆  
 
@@ -100,4 +99,4 @@
 
 ---
 
-<p align="center">✨ Always learning. Always building. ✨</p>
+<p align="center">✨ Always learning, Always building. ✨</p>
