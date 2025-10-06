@@ -86,9 +86,9 @@ Developed a multithreaded TCP calculator to handle multiple client requests effi
 
 ### 🏅 Achievements & Certifications
 
-🏆 Kabaddi Winner — SOA CUP Kabaddi 2025  
-🎖 AWS Badge Certification - Amazon Web Services Badge
+🏆 Kabaddi Winner — SOA CUP Kabaddi 2025 
 🎖 Data Science in Python -  Certificate of Excellence (Evoastra Ventures)
+🎖 AWS Badge Certification - Amazon Web Services Badge
 🌟 Jaago Club Member SOA - Coordinator and Technical Lead
 
 ---
