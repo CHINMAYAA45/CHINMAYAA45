@@ -74,15 +74,6 @@ Developed a multithreaded TCP calculator to handle multiple client requests effi
 
 ---
 
-### 💼 Internships & Training  
-
-*Evoastra Ventures — Data Science Intern (2024)*  
-🔹 Worked on car market analysis & visualization using Python.  
-
-*AWS Academy Cloud Foundations (2024)*  
-🔹 Completed 20-hour training on EC2, S3, IAM, VPC fundamentals.  
-
----
 
 ### 🏅 Achievements & Certifications
 
