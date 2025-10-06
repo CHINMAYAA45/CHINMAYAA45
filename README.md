@@ -1,9 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there! I'm Chinmaya 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Software+Engineer+💻;Full+Stack+Developer+🚀;Cloud+and+Data+Enthusiast+☁" alt="Typing SVG" />
-</p>
 
 ---
 
